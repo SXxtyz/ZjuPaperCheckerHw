@@ -1,0 +1,7 @@
+{
+  "par_chinese_threshold": 0.2,
+  "white_tables": [],
+  "end_punctuations": ["。", "：", "！", "？", "；", "......"],
+  "ignore_chinese_chars": "、“”（）—《》~·‘’，：",
+  "split_punctuations": ["！", "。", "？", "；"]
+}
